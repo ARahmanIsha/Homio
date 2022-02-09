@@ -1,0 +1,225 @@
+.navimg{
+  width: 3rem;
+}
+.conteiner,.conteiner2,.conteiner3,.conteiner4,.conteiner5,.conteiner6,.conteiner7,.conteinertop{
+  text-align: center;
+  margin: auto;
+  width: 80%;
+}
+#title{
+  text-align: center;
+}
+#middle-section{
+  padding:2rem;
+}
+#slide-1{
+  margin: 0rem 10rem 10rem 10rem;
+  padding-bottom: 5rem;
+}
+.conteiner4{
+  background-color: #DFEDED75;
+  padding:7%;
+  margin: auto;
+}
+.review-header{
+    margin: auto;
+    padding-left: 15%;
+    font-family: "Montserrat";
+    color: #151B54;
+}
+.review-card{
+  margin: auto;
+  width: 20rem;
+  padding: 0%;
+  radius: 80%;
+}
+.card1{
+   width:20rem;
+   border-radius:2rem;
+   background-color: #228086;
+   text-align: center;
+   color: #FFF;
+}
+.card2{
+  width:20rem;
+  border-radius:2rem;
+  background-color:#fff;
+  text-align: center;
+}
+.cardimg{
+  width: 3rem;
+  border-radius: 100%;
+}
+.card-text{
+  width: 100%;
+  margin-right:2%;
+  padding-top: 1%;
+  padding-left:1rem;
+  text-align: center;
+
+}
+.loc{
+  text-align: center;
+}
+.card-title{
+
+}
+.card{
+  text-align: center;
+  margin: auto;
+  line-height: 0.5rem;
+}
+.card-img-top{
+  height: 14rem;
+}
+.cardbuildrow{
+  margin: auto;
+  padding: 1.5rem;
+}
+.row{
+  margin: 3rem;
+}
+.p{
+  padding: 0rem 7rem 7rem 5rem;
+  margin:10rem;
+}
+.body{
+  font-family: "Montserrat-black";
+}
+.header{
+  padding: auto;
+  margin: auto;
+  background-color: #DFEDED75;
+  text-align: center;
+
+}
+.download-button{
+  background-color: #FF6700;
+  color: #fff;
+}
+
+.topdiv1{
+ padding: 0rem 0rem 10rem 0rem;
+}
+.topdiv2{
+  padding:0rem 0rem 0rem 25rem;
+}
+.ownerpic{
+  width: 170%;
+}
+.tittle-image{
+width: 100%;
+}
+.topdivtext{
+  width: 5rem;
+  color: #228086;
+  text-align: center;
+  margin-left: 35rem;
+  margin-top: 0rem;
+  padding: 0rem;
+  position: relative;
+}
+.help{
+  font-weight: bold;
+}
+.suit{
+  color:#FF6700;
+}
+.topdivtext1{
+  width: 40rem;
+  text-align:center;
+  padding-top:5rem;
+  font-family:"Poppins";
+  color:#151B54;
+  padding-left: 10rem;
+  position: relative;
+}
+.nav-item{
+  padding-left: 3rem;
+}
+.navbar-nav
+{
+  padding-left: 25rem;
+}
+.features-img{
+  width: 8rem;
+}
+.features{
+  margin: auto;
+  width: 5rem;
+  padding-right:1.5rem;
+}
+.slide-Header-img{
+  width: 2.5rem;
+}
+.download-button-down{
+  margin:3rem;
+}
+#owner-section{
+  font-family: "Montserrat-black";
+  color:#151B54;
+  text-align: center;
+}
+#Footer{
+  margin: auto;
+  padding: 7rem;
+}
+.top{
+  font-family: "Montserrat-black";
+  font-weight: bold;
+
+}
+.mid{
+  font-weight: 1rem;
+  font-family: "Montserrat";
+  color: #A5A5A5;
+
+}
+.inputpor{
+  padding-top: 10rem;
+}
+.email{
+  border-radius: 2rem;
+  border-color: #228086;
+  border-width: .5rem;
+}
+h2{
+  font-size: 4rem;
+  font-family: "Montserrat-black";
+}
+h5{
+  font-size: 3%;
+  font-family: "Montserrat-black";
+}
+.info{
+  padding-top: 5rem;
+  margin: auto;
+  font-family: "Montserrat-black";
+  color:#fff;
+  font-size: 2rem;
+  line-height: 1rem;
+}
+.slidegrid{
+  float: left;
+  text-align: center;
+  padding-top: 2rem;
+  margin:5rem;
+  line-height: 1.5rem;
+}
+.price{
+  font-family: "Montserrat-black";
+  font-size: 3rem;
+  color: #FF6700;
+}
+.testimg{
+  width: 100%;
+    border-radius: 60%;
+    padding-bottom: 5rem;
+    padding-left: 5rem;
+}
+.carousel-item{
+color: #FFF;
+padding-top: 4rem;
+background-color: #228086;
+text-align:center;
+}
